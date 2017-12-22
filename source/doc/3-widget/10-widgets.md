@@ -23,11 +23,11 @@ layout: doc
 [mip-accordion](/examples/mip-extensions/mip-accordion.html) |折叠节点|折叠隐藏节点(可记录用户上次行为)。
 [mip-analytics](/examples/mip-extensions/mip-analytics.html) |统计框架|提供统计发送接口，由使用方决定在什么时候发送什么参数，到什么地方。
 [mip-anim](/examples/mip-extensions/mip-anim.html) |动图|用来支持在 MIP 页中 gif 图的使用。
-[mip-app-banner](/examples/mip-extensions/mip-app-banner.html) |App 吊起组件|用于吊起 App。
+[mip-app-banner](/examples/mip-extensions/mip-app-banner.html) |App 调起组件|用于调起 App。
 [mip-appdl](/examples/mip-extensions/mip-appdl.html) |App 下载|App 下载，可区分安卓和 iOS。
 [mip-audio](/examples/mip-extensions/mip-audio.html) |音频播放|提供了一个音频播放组件
 [mip-experiment](/examples/mip-extensions/mip-experiment.html) |前端抽样实验|mip-experiment 组件用于前端抽样实验。  可用于按钮，banner，广告等前端可控元素的改版实验，与mip-pix，可配合使用。
-[mip-filter](/examples/mip-extensions/mip-filter.html) |筛选组件|筛选组件，自适应pc和wise宽度。mipengine.org有引用
+[mip-filter](/examples/mip-extensions/mip-filter.html) |筛选组件|筛选组件，自适应pc和wap宽度。mipengine.org有引用
 [mip-fixed](/examples/mip-extensions/mip-fixed.html) |悬浮布局|悬浮元素整体使用方案。
 [mip-form](/examples/mip-extensions/mip-form.html) |表单|表单提交。
 [mip-gototop](/examples/mip-extensions/mip-gototop.html) |快速回顶|添加快速回顶按钮，点击回到页面顶部。
